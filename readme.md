@@ -1,6 +1,6 @@
 #Film Grain THREE.js
 
-[![Image from Gyazo](https://i.gyazo.com/78d01d3f1d0ca4535a3da2cda4e71358.gif)](https://gyazo.com/78d01d3f1d0ca4535a3da2cda4e71358)
+![](film-grain.gif)
 
 ## Setup
 
